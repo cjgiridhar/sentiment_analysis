@@ -15,4 +15,4 @@ Text to be Analyzed
 
 Results
 =======
-- Results are observed on the console in the format: <text> <=> <pos/neg/netural>
+- Results are observed on the console in the format: text <=> pos/neg/netural
