@@ -4,6 +4,8 @@ Engines Used
 ============
 - nltk
 - textblob
+- uClassify
+- indicoio
 
 Usage
 =====
